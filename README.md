@@ -25,12 +25,13 @@ My Full stack Portfolio
   Open the HTML file in default browser to see the webpage.
   To run this on your own computer you can copy the repo at <br>
 
-  [![Use this template](https://img.shields.io/badge/Click-to_visit_website-7690a0?style=for-the-badge)]([https://github.com/MCX2code/Portfolio/])
 
+ [![Use this template](https://img.shields.io/badge/Click-to_visit_website_page-7690a0?style=for-the-badge)](https://mcx2code.github.io/Portfolio/)
+ 
   ## Usage 
 
   To use simply visit the live application at: <br>
-   [![Use this template](https://img.shields.io/badge/Click-to_visit_Github_Repo-7690a0?style=for-the-badge)](https://mcx2code.github.io/Portfolio/)
+   [![Use this template](https://img.shields.io/badge/Click-to_visit_Github_Repo-7690a0?style=for-the-badge)](https://github.com/MCX2code/Portfolio)
 
   ## Contribution
 
