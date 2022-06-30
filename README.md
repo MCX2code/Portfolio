@@ -1,8 +1,8 @@
 # Portfolio
 My Full stack Portfolio
 
-  ![License](https://img.shields.io/badge/license-mit-informational.svg) <br>
-  ![License](https://img.shields.io/badge/MCX-Success-green)<br>
+  ![License](https://img.shields.io/badge/license-mit-informational.svg) 
+  ![License](https://img.shields.io/badge/MCX-Success-green)
   ![License](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
 
