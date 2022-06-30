@@ -35,7 +35,7 @@ My Full stack Portfolio
 
   ## Screenshots
 
-  ![Project Screenshot](https://raw.githubusercontent.com/MCX2code/Portfolio/main/Portfolio.png)  
+  ![Project Screenshot](https://raw.githubusercontent.com/MCX2code/Portfolio/main/Profolio.png)  
   
 
   ## Questions?
